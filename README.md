@@ -10,3 +10,6 @@ Another example to split variables in String value:
 
 Another Data String type example Replacing All ABC characters:
 ![image](https://user-images.githubusercontent.com/53869097/221558573-9198e877-ba6b-4891-935b-5478bde3d7c2.png)
+
+Another String Data in which we can check the condition that any alphabet is contain a so it is true or if the alphabet is contain e which is not available so its means false:
+![image](https://user-images.githubusercontent.com/53869097/221563331-be0a3f84-c327-4973-a664-c233c9236676.png)

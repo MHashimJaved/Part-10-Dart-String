@@ -7,3 +7,6 @@ Dart String data type with examples:
 
 Another example to split variables in String value:
 ![image](https://user-images.githubusercontent.com/53869097/221557772-41415bd4-74d8-4e2b-b629-d3a653ff6221.png)
+
+Another Data String type example Replacing All ABC characters:
+![image](https://user-images.githubusercontent.com/53869097/221558573-9198e877-ba6b-4891-935b-5478bde3d7c2.png)
